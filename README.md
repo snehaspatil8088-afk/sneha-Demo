@@ -1,2 +1,3 @@
 # sneha-Demo
-my first project
+my first git repository
+author sneha patil
